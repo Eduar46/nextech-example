@@ -1,0 +1,45 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  text-align:center;
+  color: #847E89;
+  }
+body {
+  background-color:#FFF8F0;
+}
+p{
+  color:#847E89;
+}
+img {
+  width:350px;
+  display: block;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+h2{
+  text-align: center;
+  color: #243E36;
+  }
+#p1{
+  color:#847E89;
+}
+#paragraph{
+  color:#083D77;
+}
+#p2{
+  color:#353D2F;
+}
+#p3{
+  color:#360A14;
+}
+#img1{
+  width:350px ;
+}
+#sc{
+  color:#A20021;
+}
+#bp{
+  color:#5C2751;
+}
